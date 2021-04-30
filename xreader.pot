@@ -1282,8 +1282,8 @@ msgstr ""
 #. contains plural cases.
 #: ../shell/ev-window.c:5503
 #, c-format
-msgid "%d found on this page"
-msgid_plural "%d found on this page"
+msgid "%d found on this page (%d total)"
+msgid_plural "%d found on this page (%d total)"
 msgstr[0] ""
 msgstr[1] ""
 
